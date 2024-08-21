@@ -1325,7 +1325,6 @@ class Mysqldump
                 $colStmt[] = "`{$colName}`";
             }
         }
-
         return $colStmt;
     }
 
